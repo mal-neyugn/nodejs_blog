@@ -1,0 +1,7 @@
+@use 'variables' as vars;
+
+h1 {
+    font-size: 2em;
+    background-color: black;
+    color: vars.$red_color;
+}
